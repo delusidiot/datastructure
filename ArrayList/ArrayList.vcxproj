@@ -19,7 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ArrayList.cpp" />
+    <ClCompile Include="arraylist.c" />
+    <ClCompile Include="example.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="arraylist.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
